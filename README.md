@@ -17,3 +17,6 @@ https://www.virtualbox.org/
 
 https://ubuntu.com/download/desktop
 
+https://s-m.com.sa/ros.txt
+
+الرابط الاخير مأخوذ من شركة الاساليب الذكية 
